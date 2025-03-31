@@ -1,0 +1,36 @@
+1.  플러터
+* 설치
+https://docs.flutter.dev/get-started/install
+
+Install the Flutter SDK
+> Download and install
+> .zip 파일 다운로드
+> tool 폴더에서 알집 풀기
+
+* 설정
+Flutter > bin 폴더 path 잡기
+> 압축 푼 bin 폴더 경로 복사
+> 시스템 속성 > 환경 변수 > path
+> path에 복사한 bin 폴더 경로 추가
+
+
+2. 안드로이드 스튜디오
+* 설치
+https://developer.android.com/studio?hl=ko
+
+Android 스튜디오 Meerkat 다운로드
+> 실행
+> 계속 NEXT 후 설치
+> 설치 완료 후 나오는 프로그램 창에서도 NEXT 후 설치
+> plugin > 플러터 설치
+
+* 설정
+뉴 플러터 프로젝트 > new Project > path 경로 설정 > 압축 푼 플러터 파일 경로 선택
+project location > 플러터 워크스페이스 경로 선택
+project name > 설정 후 프로젝트 경로 마지막에 작성
+
+file > setting > 폰트 및 테마 변경
+
+* 시작
+1) 오른쪽 메뉴 > Device Manager > 버츄얼 머신 실행
+2) 상단 실행 메뉴 > console로 실행 현황 확인
