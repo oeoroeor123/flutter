@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/a_flutter_intro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a_flutter_intro/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a_flutter_intro/b_layout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a_flutter_intro/b_layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a_flutter_intro/b_layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a_flutter_intro/build" />
+      <excludeFolder url="file://$MODULE_DIR$/b_layout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/b_layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/b_layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/c_stateless/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/c_stateless/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/c_stateless/build" />
+      <excludeFolder url="file://$MODULE_DIR$/d_statefull/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/d_statefull/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/d_statefull/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

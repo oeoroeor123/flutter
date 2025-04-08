@@ -1,0 +1,10 @@
+플러터 디펜던시 추가 법
+
+1. https://pub.dev/
+사이트에서 원하는 디펜던시 검색 후 버전 체크
+디펜던시 복사
+
+2. 플러터 > pubspec.yaml 파일에
+위치 체크 후 붙여넣기
+
+3. pubspec.yaml 파일 pub get

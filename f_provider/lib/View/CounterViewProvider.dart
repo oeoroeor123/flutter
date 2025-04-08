@@ -7,10 +7,10 @@ import 'package:f_provider/ViewModel/CounterViewModel.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-class CounterView extends StatelessWidget {
+class CounterViewProvider extends StatelessWidget {
 
   // 생성자 주입
-  const CounterView({super.key});
+  const CounterViewProvider({super.key});
 
 
   @override

@@ -3,6 +3,9 @@
 // View는 상태값이 변하면 리 빌드된다.
 
 // changeNotifier : 상태 변경을 알리는 클래스
+import 'package:f_provider/Model/CounterModel.dart';
+import 'package:flutter/material.dart';
+
 class CounterViewModel with ChangeNotifier {
 
   // Model 인스턴스 생성

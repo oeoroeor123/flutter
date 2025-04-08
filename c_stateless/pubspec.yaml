@@ -1,0 +1,33 @@
+name: c_stateless
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  fluttertoast: ^8.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  # 폰트 등록
+  fonts:
+    - family: D2Coding # 사용할 폰트의 이름
+      fonts:
+        - asset: assets/fonts/D2Coding.ttf # 폰트 파일 경로 (assets > fonts에 파일 존재)
+          weight: 400
+  # 정적 자원 등록 (assets 디렉터리 하위 모든 파일 등록)
+  assets:
+    - assets/images/
